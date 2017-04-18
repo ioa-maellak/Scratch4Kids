@@ -1,0 +1,8 @@
+title: Scratch4Kids
+description: Scratch programming for kids and novice programmers
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
